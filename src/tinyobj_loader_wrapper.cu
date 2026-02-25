@@ -1,4 +1,4 @@
-/*
+/*.obj系のファイル（メッシュデータ）を読み込む
  * Copyright (c) 2021-2022, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property

@@ -1,4 +1,6 @@
 /*
+ *機能のうち３Ⅾの復元計算
+ *
  * Copyright (c) 2020-2025, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property

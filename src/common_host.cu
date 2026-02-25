@@ -1,4 +1,6 @@
 /*
+ *「文字列の処理」「乱数を作る」「GPUのエラーチェック
+ *
  * Copyright (c) 2022, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property

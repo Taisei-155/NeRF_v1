@@ -1,4 +1,4 @@
-/*
+/*タスクの割り振りを担当
  * Copyright (c) 2022, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property

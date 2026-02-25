@@ -1,4 +1,6 @@
 /*
+ *全体の機能のうちの２Ⅾ画像の解析
+ *
  * Copyright (c) 2020-2022, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property

@@ -1,4 +1,5 @@
 /*
+ *言語間の通訳
  * Copyright (c) 2020-2022, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property

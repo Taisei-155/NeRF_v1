@@ -1,4 +1,7 @@
 /*
+ *プログラムの始まり？
+ *状態を読んで事項ファイルを呼び出す
+ *
  * Copyright (c) 2020-2022, NVIDIA CORPORATION.  All rights reserved.
  *
  * NVIDIA CORPORATION and its licensors retain all intellectual property
