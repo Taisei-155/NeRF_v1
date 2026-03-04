@@ -99,3 +99,6 @@ LIPIS：人間の感覚を学習させたAI自然かどうか
 変更方法: python scripts/colmap2nerf.py --video_in data_mns/data_1_no/video.mp4 --images data_mns/data_1_no/images --out data_mns/data_1_no/transforms.json --run_colmap 切り出しの実行時の変更
 出力ファイルの名前をjpgからpngにすると画質をあげられる（画質の劣化が0）
 -----------------------------------------------------------------------------------------------------------
+作成したNeRF空間からの画像の切り出し
+python scripts/run.py --scene data_mns/data_4_p1 --load_snapshot base.ingp --screenshot_transforms data_mns/data_4_p1/transforms.json --screenshot_dir renders
+------------------------------------------------------------------------------------------------------
